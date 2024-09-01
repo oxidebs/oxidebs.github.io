@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oxidebs.github.io/sitemap.html.gz
+Sitemap: https://oxidebs.github.io/app/sitemap.html.gz
+Sitemap: https://oxidebs.github.io/assets/sitemap.html.gz
+Sitemap: https://oxidebs.github.io/css/sitemap.html.gz
+Sitemap: https://oxidebs.github.io/includes/sitemap.html.gz
+Sitemap: https://oxidebs.github.io/item/sitemap.html.gz
+Sitemap: https://oxidebs.github.io/src/sitemap.html.gz
